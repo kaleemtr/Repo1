@@ -1,0 +1,8 @@
+Git Commands
+
+git --version  (to check git version)
+git init   (to add folder to git)
+git status  (to check files and folder status)
+dir > test1.txt  (to add file to the project1 folder)
+git add test1.txt  (to add file to git start tracking)
+git commit -m "...."  (to commit changes with the message (-m))
